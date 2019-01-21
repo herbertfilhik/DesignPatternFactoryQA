@@ -1,0 +1,7 @@
+WinActivate("Autenticação solicitada")
+WinWaitActive("Autenticação solicitada")
+Send("f31022743821")
+Send("{TAB}")
+Send("Jesus_137")
+Send("{TAB}")
+Send("{ENTER}")
